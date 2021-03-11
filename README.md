@@ -1,3 +1,6 @@
 #Assignment1
 
-Initial readme file conflicting merge.
+Initial readme file.
+
+Changes in feature branch
+
