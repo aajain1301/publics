@@ -1,3 +1,3 @@
 #Assignment1
 
-Initial readme file.
+Initial readme file conflicting merge.
